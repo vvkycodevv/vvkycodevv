@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3d0080,9b30ff&height=130&section=header&text=VvkyvV&fontColor=e0aaff&fontSize=44&fontAlignY=65&animation=fadeIn&desc=web+apps+%E2%80%A2+tools+%26+scripts+%E2%80%A2+%C3%BCrich%2C+ch&descAlignY=85&descSize=13)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3d0080,9b30ff&height=130&section=header&text=VvkyvV&fontColor=e0aaff&fontSize=44&fontAlignY=65&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=9B30FF&width=500&lines=vibe+coding+when+bored+and+inspired+%F0%9F%95%B7;web+apps+%7C+tools+%26+scripts;typescript+%7C+javascript+%7C+node.js;open+to+collabs+%E2%80%94+dm+me)](https://git.io/typing-svg)
 
