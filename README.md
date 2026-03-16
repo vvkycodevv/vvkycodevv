@@ -19,8 +19,8 @@
 
 | project | description | lang |
 |---|---|---|
-| [TaxCalc.ch](https://github.com/vvkycodevv/TaxCalc.ch) | modern swiss tax calculator | TypeScript |
-| [Steam-Idler](https://github.com/vvkycodevv/Steam-Idler) | 24/7 steam playtime idler on replit | JavaScript |
+| [rave2gether.ch](https://github.com/vvkycodevv/) | A social map for nightlife. |
+| [DefuseHub](https://github.com/vvkycodevv/) | AI-Native CS2 Tournaments and news. |
 
 ---
 
