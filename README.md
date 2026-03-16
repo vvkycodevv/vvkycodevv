@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a00cc,9b30ff&height=120&section=header&text=VvkyvV&fontColor=e0aaff&fontSize=40&fontAlignY=65&animation=fadeIn&desc=vibe+coder+%F0%9F%95%B7+%7C+%C3%9C+Based&descAlignY=85&descSize=14)
-
 ```
 ██╗   ██╗██╗   ██╗██╗  ██╗██╗   ██╗██╗   ██╗
 ██║   ██║██║   ██║██║ ██╔╝╚██╗ ██╔╝██║   ██║
