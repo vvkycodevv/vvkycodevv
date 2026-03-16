@@ -1,12 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a00cc,9b30ff&height=120&section=header&text=VvkyvV&fontColor=e0aaff&fontSize=40&fontAlignY=65&animation=fadeIn&desc=vibe+coder+%F0%9F%95%B7+%7C+%C3%9C+Based&descAlignY=85&descSize=14)
-```
-██╗   ██╗██╗   ██╗██╗  ██╗██╗   ██╗██╗   ██╗
-██║   ██║██║   ██║██║ ██╔╝╚██╗ ██╔╝██║   ██║
-██║   ██║██║   ██║█████╔╝  ╚████╔╝ ██║   ██║
-╚██╗ ██╔╝╚██╗ ██╔╝██╔═██╗  ╚██╔╝  ╚██╗ ██╔╝
- ╚████╔╝  ╚████╔╝ ██║  ██╗  ██║    ╚████╔╝ 
-  ╚═══╝    ╚═══╝  ╚═╝  ╚═╝  ╚═╝     ╚═══╝  
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=9B30FF&width=435&lines=vibe+coding+when+bored+and+inspired+%F0%9F%95%B7;TypeScript+%7C+JavaScript+%7C+Node.js;building+stuff+that+probably+works)](https://git.io/typing-svg)
 
