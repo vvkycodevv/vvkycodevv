@@ -41,7 +41,7 @@ email    →  ky.schwaiger@gmail.com
 github   →  github.com/vvkycodevv
 ```
 
-> open to collabs, freelance & cool ideas — dm me anytime 🕷
+> open to collabs, freelance & cool ideas - dm me anytime 🕷
 
 ---
 
