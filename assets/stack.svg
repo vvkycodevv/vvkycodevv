@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" role="img" aria-label="Animated terminal — tech stack: web (React, Next.js, TypeScript, Tailwind, Vite), mobile (Flutter, Dart), backend (Supabase, Firebase, Python), design (Figma, Git). Pair-programming daily with Claude Fable 5 and Claude Opus 4.8.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" role="img" aria-label="Animated terminal — tech stack: web (React, Next.js, TypeScript, Tailwind, Vite), mobile (Flutter, Dart, Expo), backend (Supabase, Firebase, Python), design (Figma, Higgsfield AI, Git). Pair-programming daily with Claude Fable 5 and Claude Opus 4.8.">
   <title>vvky — stack</title>
   <style>
     text{font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:15px}
@@ -74,7 +74,7 @@
       </g>
       <g class="r2">
         <text x="64" y="186" fill="#8b949e">mobile/</text>
-        <text x="150" y="186"><tspan fill="#54C5F8">Flutter</tspan><tspan fill="#485058"> · </tspan><tspan fill="#4FC3F7">Dart</tspan></text>
+        <text x="150" y="186"><tspan fill="#54C5F8">Flutter</tspan><tspan fill="#485058"> · </tspan><tspan fill="#4FC3F7">Dart</tspan><tspan fill="#485058"> · </tspan><tspan fill="#F0F6FC">Expo</tspan></text>
       </g>
       <g class="r3">
         <text x="64" y="218" fill="#8b949e">backend/</text>
@@ -82,7 +82,7 @@
       </g>
       <g class="r4">
         <text x="64" y="250" fill="#8b949e">design/</text>
-        <text x="150" y="250"><tspan fill="#A259FF">Figma</tspan><tspan fill="#485058"> · </tspan><tspan fill="#F05032">Git</tspan></text>
+        <text x="150" y="250"><tspan fill="#A259FF">Figma</tspan><tspan fill="#485058"> · </tspan><tspan fill="#C6FF4D">Higgsfield AI</tspan><tspan fill="#485058"> · </tspan><tspan fill="#F05032">Git</tspan></text>
       </g>
 
       <!-- prompt 2: vvky copilot -->

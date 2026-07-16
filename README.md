@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/stack.svg" width="100%" alt="animated terminal — web: React, Next.js, TypeScript, Tailwind, Vite · mobile: Flutter, Dart · backend: Supabase, Firebase, Python · design: Figma, Git · pair-programming daily with Claude Fable 5 & Claude Opus 4.8" />
+<img src="assets/stack.svg" width="100%" alt="animated terminal — web: React, Next.js, TypeScript, Tailwind, Vite · mobile: Flutter, Dart, Expo · backend: Supabase, Firebase, Python · design: Figma, Higgsfield AI, Git · pair-programming daily with Claude Fable 5 & Claude Opus 4.8" />
 
 <br/><br/>
 
