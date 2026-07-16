@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 132" width="268" height="132" role="img" aria-label="PokéPC+ — browser extension that makes living dex completion a breeze">
+  <title>PokéPC+</title>
+  <style>
+    text{font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .inx{opacity:0;animation:fin .7s cubic-bezier(.22,.68,.3,1) .3s forwards}
+    @keyframes fin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .arr{animation:nudge 2.6s ease-in-out .4s infinite}
+    @keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-3px)}}
+  </style>
+  <rect x="1" y="1" width="266" height="130" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g class="inx">
+    <circle cx="24" cy="34" r="3.5" fill="#FF6B9D"/>
+    <text x="34" y="38" font-size="11" letter-spacing="2" fill="#8b949e">SIDE PROJECT · OSS</text>
+    <text x="22" y="72" font-size="18" font-weight="700" fill="#e6edf3">PokéPC+</text>
+    <text x="22" y="96" font-size="12" fill="#8b949e">browser ext that makes living</text>
+    <text x="22" y="114" font-size="12" fill="#8b949e">dex completion a breeze</text>
+    <g class="arr">
+      <path d="M228 42 L244 26 M233 26 h11 v11" fill="none" stroke="#FF6B9D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
