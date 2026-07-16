@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" role="img" aria-label="Animated terminal — tech stack: web (React, Next.js, TypeScript, Tailwind, Vite), mobile (Flutter, Dart), backend (Supabase, Firebase, Python), design (Figma, Git). Pair-programming daily with Claude Fable 5 and Claude Opus 4.8.">
+  <title>vvky — stack</title>
+  <style>
+    text{font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:15px}
+    .bar{font-size:12.5px}
+    .sess{animation:sess 14s linear infinite}
+    @keyframes sess{0%,93%{opacity:1}97%,100%{opacity:0}}
+
+    .c0,.p1,.r1,.r2,.r3,.r4,.p2,.resp{animation-duration:14s;animation-timing-function:cubic-bezier(.22,.68,.3,1);animation-iteration-count:infinite}
+    .c0{animation-name:kc0}
+    .p1{animation-name:kp1}
+    .r1{animation-name:kr1}
+    .r2{animation-name:kr2}
+    .r3{animation-name:kr3}
+    .r4{animation-name:kr4}
+    .p2{animation-name:kp2}
+    .resp{animation-name:kresp}
+    @keyframes kc0{0%,1%{opacity:0;transform:translateY(6px)}2.5%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kp1{0%,2%{opacity:0;transform:translateY(6px)}3.5%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kr1{0%,12%{opacity:0;transform:translateY(6px)}14%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kr2{0%,14.5%{opacity:0;transform:translateY(6px)}16.5%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kr3{0%,17%{opacity:0;transform:translateY(6px)}19%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kr4{0%,19.5%{opacity:0;transform:translateY(6px)}21.5%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kp2{0%,23%{opacity:0;transform:translateY(6px)}24.5%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes kresp{0%,34.5%{opacity:0;transform:translateY(6px)}37%,100%{opacity:1;transform:translateY(0)}}
+
+    .t1{animation:kt1 14s steps(12,end) infinite}
+    @keyframes kt1{0%,4%{transform:translateX(0)}10%,100%{transform:translateX(111px)}}
+    .t2{animation:kt2 14s steps(14,end) infinite}
+    @keyframes kt2{0%,25%{transform:translateX(0)}32%,100%{transform:translateX(130px)}}
+    .cu1{animation:kcu1 14s linear infinite}
+    @keyframes kcu1{0%,10.5%{opacity:1}10.6%,100%{opacity:0}}
+    .cu2{animation:kcu2 14s linear infinite}
+    @keyframes kcu2{0%,22.5%{opacity:0}23%,32.5%{opacity:1}32.6%,100%{opacity:0}}
+
+    .p3g{animation:kp3 14s linear infinite}
+    @keyframes kp3{0%,38.5%{opacity:0}39.5%,100%{opacity:1}}
+    .blink{animation:blink 1.12s linear infinite}
+    @keyframes blink{0%,50%{opacity:1}50.1%,100%{opacity:0}}
+    .spark{transform-box:fill-box;transform-origin:50% 50%;animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.75);opacity:.7}}
+  </style>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="838" height="398" rx="14"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="398" rx="14" fill="#0d1117"/>
+  <g clip-path="url(#card)">
+    <rect x="1" y="1" width="838" height="44" fill="#161b22"/>
+    <line x1="1" y1="45" x2="839" y2="45" stroke="#21262d" stroke-width="1.5"/>
+    <circle cx="27" cy="23" r="6.5" fill="#ff5f57"/>
+    <circle cx="49" cy="23" r="6.5" fill="#febc2e"/>
+    <circle cx="71" cy="23" r="6.5" fill="#28c840"/>
+    <text class="bar" x="420" y="27.5" text-anchor="middle" fill="#8b949e">vvky@zurich — ~/stack</text>
+
+    <g class="sess">
+      <!-- login message -->
+      <text class="c0" x="40" y="84" fill="#6e7681"># last login: 03:47 · somewhere in zürich</text>
+
+      <!-- prompt 1: vvky stack -->
+      <g class="p1">
+        <path d="M40 105 l7 7 l-7 7" fill="none" stroke="#FF6B9D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="118" fill="#e6edf3">vvky --stack</text>
+      </g>
+      <g class="t1">
+        <rect x="62" y="103" width="770" height="22" fill="#0d1117"/>
+        <rect class="cu1" x="63" y="103" width="9" height="19" fill="#6C63FF"/>
+      </g>
+
+      <!-- stack rows -->
+      <g class="r1">
+        <text x="64" y="154" fill="#8b949e">web/</text>
+        <text x="150" y="154"><tspan fill="#61DAFB">React</tspan><tspan fill="#485058"> · </tspan><tspan fill="#F0F6FC">Next.js</tspan><tspan fill="#485058"> · </tspan><tspan fill="#4A9EFF">TypeScript</tspan><tspan fill="#485058"> · </tspan><tspan fill="#38BDF8">Tailwind</tspan><tspan fill="#485058"> · </tspan><tspan fill="#A78BFA">Vite</tspan></text>
+      </g>
+      <g class="r2">
+        <text x="64" y="186" fill="#8b949e">mobile/</text>
+        <text x="150" y="186"><tspan fill="#54C5F8">Flutter</tspan><tspan fill="#485058"> · </tspan><tspan fill="#4FC3F7">Dart</tspan></text>
+      </g>
+      <g class="r3">
+        <text x="64" y="218" fill="#8b949e">backend/</text>
+        <text x="150" y="218"><tspan fill="#3ECF8E">Supabase</tspan><tspan fill="#485058"> · </tspan><tspan fill="#FFCA28">Firebase</tspan><tspan fill="#485058"> · </tspan><tspan fill="#64B5F6">Python</tspan></text>
+      </g>
+      <g class="r4">
+        <text x="64" y="250" fill="#8b949e">design/</text>
+        <text x="150" y="250"><tspan fill="#A259FF">Figma</tspan><tspan fill="#485058"> · </tspan><tspan fill="#F05032">Git</tspan></text>
+      </g>
+
+      <!-- prompt 2: vvky copilot -->
+      <g class="p2">
+        <path d="M40 279 l7 7 l-7 7" fill="none" stroke="#FF6B9D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="292" fill="#e6edf3">vvky --copilot</text>
+      </g>
+      <g class="t2">
+        <rect x="62" y="277" width="770" height="22" fill="#0d1117"/>
+        <rect class="cu2" x="63" y="277" width="9" height="19" fill="#6C63FF"/>
+      </g>
+
+      <!-- claude response -->
+      <g class="resp">
+        <path class="spark" d="M71 310 C71.6 314.2 73.8 316.4 78 317 C73.8 317.6 71.6 319.8 71 324 C70.4 319.8 68.2 317.6 64 317 C68.2 316.4 70.4 314.2 71 310 Z" fill="#D97757"/>
+        <text x="88" y="324"><tspan fill="#8b949e">pair-programming daily with </tspan><tspan fill="#D97757" font-weight="600">Claude Fable 5</tspan><tspan fill="#8b949e"> &amp; </tspan><tspan fill="#D97757" font-weight="600">Claude Opus 4.8</tspan></text>
+      </g>
+
+      <!-- idle prompt -->
+      <g class="p3g">
+        <path d="M40 355 l7 7 l-7 7" fill="none" stroke="#FF6B9D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect class="blink" x="64" y="353" width="9" height="19" fill="#6C63FF"/>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="838" height="398" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>

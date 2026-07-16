@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 190" width="840" height="190" role="img" aria-label="vvkycodevv — self-taught dev, design-driven, fullstack and mobile, Zürich">
+  <title>vvkycodevv</title>
+  <style>
+    text{font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .in{opacity:0;animation:rise .9s cubic-bezier(.22,.68,.3,1) forwards}
+    .d1{animation-delay:.1s}
+    .d3{animation-delay:.6s}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .rule{transform-box:fill-box;transform-origin:50% 50%;opacity:0;animation:grow .8s cubic-bezier(.22,.68,.3,1) .45s forwards}
+    @keyframes grow{from{opacity:0;transform:scaleX(0)}to{opacity:1;transform:scaleX(1)}}
+  </style>
+  <defs>
+    <linearGradient id="hg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1680" y2="0">
+      <stop offset="0" stop-color="#6C63FF"/>
+      <stop offset=".125" stop-color="#FF6B9D"/>
+      <stop offset=".25" stop-color="#00D9FF"/>
+      <stop offset=".375" stop-color="#FF6B9D"/>
+      <stop offset=".5" stop-color="#6C63FF"/>
+      <stop offset=".625" stop-color="#FF6B9D"/>
+      <stop offset=".75" stop-color="#00D9FF"/>
+      <stop offset=".875" stop-color="#FF6B9D"/>
+      <stop offset="1" stop-color="#6C63FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="-840 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text class="in d1" x="420" y="96" text-anchor="middle" font-size="58" font-weight="700" letter-spacing="2" fill="url(#hg)">vvkycodevv</text>
+  <rect class="rule" x="345" y="116" width="150" height="3" rx="1.5" fill="url(#hg)"/>
+  <text class="in d3" x="420" y="152" text-anchor="middle" font-size="15" letter-spacing="1" fill="#8b949e">self-taught dev · design-driven · fullstack &amp; mobile · zürich, ch</text>
+</svg>
