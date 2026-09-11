@@ -98,7 +98,7 @@
       <!-- claude response -->
       <g class="resp">
         <path class="spark" d="M71 310 C71.6 314.2 73.8 316.4 78 317 C73.8 317.6 71.6 319.8 71 324 C70.4 319.8 68.2 317.6 64 317 C68.2 316.4 70.4 314.2 71 310 Z" fill="#D97757"/>
-        <text x="88" y="324"><tspan fill="#8b949e">pair-programming daily with </tspan><tspan fill="#D97757" font-weight="600">Claude Fable 5</tspan><tspan fill="#8b949e"> &amp; </tspan><tspan fill="#D97757" font-weight="600">Claude Opus 4.8</tspan></text>
+        <text x="88" y="324"><tspan fill="#8b949e">pair-programming daily with </tspan><tspan fill="#D97757" font-weight="600">Claude</tspan><tspan fill="#8b949e"> &amp; </tspan><tspan fill="#D97757" font-weight="600"></tspan></text>
       </g>
 
       <!-- idle prompt -->
