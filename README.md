@@ -16,6 +16,6 @@
 
 <br/><br/>
 
-<sub>shipped from zürich · powered by <b>Claude Fable 5</b> &amp; <b>Opus 4.8</b> · found at raves, in studios, or hunting shinies</sub>
+<sub>shipped from zürich · mostly powered by <b>Claude</b> · found at raves, in studios, or hunting shinies</sub>
 
 </div>
